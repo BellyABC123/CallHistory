@@ -1,0 +1,13 @@
+h1. CallHistory
+
+iOS Wrapper for accessing iPhone call history.
+
+h2. Useage
+
+See CallHistorySample/RootViewController.m
+
+h2. Acknowledgements
+
+* Some code lifted from Bushra's great article ("http://iosstuff.wordpress.com/2011/08/19/accessing-iphone-call-history/":http://iosstuff.wordpress.com/2011/08/19/accessing-iphone-call-history/).
+
+* Sample app uses Eica's ABContactHelper ("https://github.com/erica/ABContactHelper":https://github.com/erica/ABContactHelper), which is licensed under BSD.
